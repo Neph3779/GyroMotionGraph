@@ -2,6 +2,9 @@
 
 **작업기간: 2022/12/26 ~ 2022/12/30**
 
+**기존 레포지토리: https://github.com/Neph3779/ios-wanted-GyroData.git**  
+기존 레포지토리에서 issue를 통한 브랜치 관리, pull request등을 확인할 수 있습니다.
+
 **어플리케이션 설명:** 사용자 기기를 통해 accelerometer와 gyro 데이터를 측정하고, 그 결과값을 저장하고 다시 볼 수 있는 어플리케이션입니다.
 
 **작동화면**
